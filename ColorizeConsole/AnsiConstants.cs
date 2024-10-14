@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnixLike.ColorizeConsole;
+namespace mycmd.ColorizeConsole;
 
 public static class AnsiConstants
 {

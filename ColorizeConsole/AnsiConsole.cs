@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics.CodeAnalysis;
-namespace UnixLike.ColorizeConsole;
+namespace mycmd.ColorizeConsole;
 public static class AnsiConsole
 {
     internal static readonly AnsiTextWriter Out = new(System.Console.Out);

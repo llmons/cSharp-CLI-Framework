@@ -1,8 +1,8 @@
-﻿using UnixLike.ColorizeConsole;
-using UnixLike.Cli;
-using UnixLike.Command;
+﻿using mycmd.Cli;
+using mycmd.Command;
+using mycmd.ColorizeConsole;
 
-namespace UnixLike
+namespace mycmd
 {
     internal class RootCommand : CommandBase
     {

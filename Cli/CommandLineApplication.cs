@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnixLike.Cli
+namespace mycmd.Cli
 {
     public class CommandLineApplication
     {

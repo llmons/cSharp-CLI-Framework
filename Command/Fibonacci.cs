@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnixLike.Cli;
+using mycmd.Cli;
 
-namespace UnixLike.Command
+namespace mycmd.Command
 {
     internal class Fibonacci : CommandBase
     {

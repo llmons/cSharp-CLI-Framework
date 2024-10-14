@@ -1,6 +1,6 @@
-﻿global using static UnixLike.ColorizeConsole.AnsiConstants;
-using UnixLike;
-using UnixLike.Cli;
+﻿global using static mycmd.ColorizeConsole.AnsiConstants;
+using mycmd;
+using mycmd.Cli;
 
 var app = new CommandLineApplication(throwOnUnexpectedArg: false)
 {
